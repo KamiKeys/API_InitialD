@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\APIWeb.Core\APIWeb.Core.csproj" />
+    <ProjectReference Include="..\APIWeb.DAL\APIWeb.DAL.csproj" />
+  </ItemGroup>
+
+</Project>
