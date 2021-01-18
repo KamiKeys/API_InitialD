@@ -2,11 +2,8 @@
 using APIWeb.Core.Utils;
 using APIWeb.DAL.Models;
 using APIWeb.DAL.Repositories.Contracts;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Security.Cryptography;
-using System.Text;
 
 namespace APIWeb.DAL.Repositories.Implementations
 {

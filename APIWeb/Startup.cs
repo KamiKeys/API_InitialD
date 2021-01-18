@@ -48,6 +48,8 @@ namespace APIWeb
             //Aquí las inyecciones: Interfaz - Clase
             services.AddScoped<IUsuarioBL, UsuarioBL>();
             services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+            services.AddScoped<IVehiculoBL, VehiculoBL>();
+            services.AddScoped<IVehiculoRepository, VehiculoRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

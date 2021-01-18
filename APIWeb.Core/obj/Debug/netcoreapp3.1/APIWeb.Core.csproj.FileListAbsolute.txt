@@ -7,3 +7,12 @@ E:\Ciclo Superior\PabloPicasso\puntoNET\APIWeb.Core\obj\Debug\netcoreapp3.1\APIW
 E:\Ciclo Superior\PabloPicasso\puntoNET\APIWeb.Core\obj\Debug\netcoreapp3.1\APIWeb.Core.csproj.CoreCompileInputs.cache
 E:\Ciclo Superior\PabloPicasso\puntoNET\APIWeb.Core\obj\Debug\netcoreapp3.1\APIWeb.Core.dll
 E:\Ciclo Superior\PabloPicasso\puntoNET\APIWeb.Core\obj\Debug\netcoreapp3.1\APIWeb.Core.pdb
+E:\Ciclo Superior\PabloPicasso\puntoNET\APIWeb\APIWeb.Core\bin\Debug\netcoreapp3.1\APIWeb.Core.deps.json
+E:\Ciclo Superior\PabloPicasso\puntoNET\APIWeb\APIWeb.Core\bin\Debug\netcoreapp3.1\APIWeb.Core.dll
+E:\Ciclo Superior\PabloPicasso\puntoNET\APIWeb\APIWeb.Core\bin\Debug\netcoreapp3.1\APIWeb.Core.pdb
+E:\Ciclo Superior\PabloPicasso\puntoNET\APIWeb\APIWeb.Core\obj\Debug\netcoreapp3.1\APIWeb.Core.csprojAssemblyReference.cache
+E:\Ciclo Superior\PabloPicasso\puntoNET\APIWeb\APIWeb.Core\obj\Debug\netcoreapp3.1\APIWeb.Core.AssemblyInfoInputs.cache
+E:\Ciclo Superior\PabloPicasso\puntoNET\APIWeb\APIWeb.Core\obj\Debug\netcoreapp3.1\APIWeb.Core.AssemblyInfo.cs
+E:\Ciclo Superior\PabloPicasso\puntoNET\APIWeb\APIWeb.Core\obj\Debug\netcoreapp3.1\APIWeb.Core.csproj.CoreCompileInputs.cache
+E:\Ciclo Superior\PabloPicasso\puntoNET\APIWeb\APIWeb.Core\obj\Debug\netcoreapp3.1\APIWeb.Core.dll
+E:\Ciclo Superior\PabloPicasso\puntoNET\APIWeb\APIWeb.Core\obj\Debug\netcoreapp3.1\APIWeb.Core.pdb
