@@ -5,6 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.0" />
+    <PackageReference Include="NSwag.AspNetCore" Version="13.10.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\APIWeb.BL\APIWeb.BL.csproj" />
     <ProjectReference Include="..\APIWeb.Core\APIWeb.Core.csproj" />
     <ProjectReference Include="..\APIWeb.DAL\APIWeb.DAL.csproj" />
