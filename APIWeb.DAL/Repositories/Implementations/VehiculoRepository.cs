@@ -30,6 +30,7 @@ namespace APIWeb.DAL.Repositories.Implementations
                     Marca = v.Marca,
                     Modelo = v.Modelo,
                     Precio = v.Precio,
+                    ConcesionarioDireccion = v.ConcesionarioDireccion,
                     UsuarioNickUsuario = v.UsuarioNickUsuario,
                     FechaVenta = v.FechaVenta,
 

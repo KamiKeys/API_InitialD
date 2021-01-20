@@ -10,6 +10,7 @@ namespace APIWeb.Core.DTO
         public string Marca { get; set; }
         public string Modelo { get; set; }
         public double? Precio { get; set; }
+        public string ConcesionarioDireccion { get; set; }
         public string UsuarioNickUsuario { get; set; }
         public DateTime? FechaVenta { get; set; }
 
