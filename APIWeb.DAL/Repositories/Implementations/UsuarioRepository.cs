@@ -19,7 +19,7 @@ namespace APIWeb.DAL.Repositories.Implementations
 
         public bool Login(UsuarioDTO usuarioDTO)
         {
-            return _context.Usuario.Any(u => u.NickUsuario == usuarioDTO.Username && u.Contrasenia == Security.GetMD5(usuarioDTO.Password));
+            return _context.Usuario.Any(u => u.NickUsuario == usuarioDTO.Username && u.Contrasenia == Security.GetMD5(usuarioDTO.Password) && u.RolIdRol == 3);
         }
 
         public void Add(UsuarioDTO usuarioDTO)
