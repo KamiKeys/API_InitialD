@@ -4,6 +4,7 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 APIWeb/obj/
+APIWeb/.vs/
 APIWeb.BL/obj/
 APIWeb.DAL/obj/
 APIWeb.Test/obj/
