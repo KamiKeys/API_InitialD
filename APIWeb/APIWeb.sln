@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIWeb.API", "APIWeb.API.csproj", "{1F38433D-5211-4A40-A471-BE69F86BE6C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIWeb", "APIWeb.csproj", "{1F38433D-5211-4A40-A471-BE69F86BE6C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIWeb.BL", "..\APIWeb.BL\APIWeb.BL.csproj", "{36592AE9-9033-4761-BF8A-121A4077A376}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIWeb.BL", "..\APIWeb.BL\APIWeb.BL.csproj", "{36592AE9-9033-4761-BF8A-121A4077A376}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIWeb.DAL", "..\APIWeb.DAL\APIWeb.DAL.csproj", "{F9820F0A-7875-4493-8C34-8A64449D420C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIWeb.DAL", "..\APIWeb.DAL\APIWeb.DAL.csproj", "{F9820F0A-7875-4493-8C34-8A64449D420C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIWeb.Core", "..\APIWeb.Core\APIWeb.Core.csproj", "{B607B322-686A-4DF6-AC2B-C21BB631DCD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIWeb.Core", "..\APIWeb.Core\APIWeb.Core.csproj", "{B607B322-686A-4DF6-AC2B-C21BB631DCD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIWeb.Test", "..\APIWeb.Test\APIWeb.Test.csproj", "{92415D7D-BB59-4E66-B7B2-3853D1CCAF69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B607B322-686A-4DF6-AC2B-C21BB631DCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B607B322-686A-4DF6-AC2B-C21BB631DCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B607B322-686A-4DF6-AC2B-C21BB631DCD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92415D7D-BB59-4E66-B7B2-3853D1CCAF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92415D7D-BB59-4E66-B7B2-3853D1CCAF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92415D7D-BB59-4E66-B7B2-3853D1CCAF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92415D7D-BB59-4E66-B7B2-3853D1CCAF69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

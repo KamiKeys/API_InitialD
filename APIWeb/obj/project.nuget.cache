@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UUZstEbV4vKkOEZUYwSCUMU0VBIFGshIMeJsfRHnKV/BOh1X3iWAq7U75hg96E8aKbRrSpZubYVpWGibjMNbaQ==",
+  "dgSpecHash": "8HLDdYVnDW1I7hjKpOuZ1sEbSVOAiTVdsxyEUuCk5pmA9iEhJCdueK4oSzRhpWfFOEKerP7dwnvUaFVd5O0KYQ==",
   "success": true,
-  "projectFilePath": "E:\\Ciclo Superior\\PabloPicasso\\puntoNET\\APIWeb\\APIWeb\\APIWeb.API.csproj",
+  "projectFilePath": "E:\\Ciclo Superior\\PabloPicasso\\puntoNET\\APIWeb\\APIWeb\\APIWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\javie\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\javie\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",

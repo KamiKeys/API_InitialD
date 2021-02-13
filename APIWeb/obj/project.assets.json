@@ -8386,9 +8386,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Ciclo Superior\\PabloPicasso\\puntoNET\\APIWeb\\APIWeb\\APIWeb.API.csproj",
-      "projectName": "APIWeb.API",
-      "projectPath": "E:\\Ciclo Superior\\PabloPicasso\\puntoNET\\APIWeb\\APIWeb\\APIWeb.API.csproj",
+      "projectUniqueName": "E:\\Ciclo Superior\\PabloPicasso\\puntoNET\\APIWeb\\APIWeb\\APIWeb.csproj",
+      "projectName": "APIWeb",
+      "projectPath": "E:\\Ciclo Superior\\PabloPicasso\\puntoNET\\APIWeb\\APIWeb\\APIWeb.csproj",
       "packagesPath": "C:\\Users\\javie\\.nuget\\packages\\",
       "outputPath": "E:\\Ciclo Superior\\PabloPicasso\\puntoNET\\APIWeb\\APIWeb\\obj\\",
       "projectStyle": "PackageReference",
