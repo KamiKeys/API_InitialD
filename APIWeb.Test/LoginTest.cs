@@ -1,8 +1,4 @@
-﻿using APIWeb.Core.Utils;
-using System;
-using System.Collections.Generic;
-using System.Net.Http;
-using System.Text;
+﻿using System.Net.Http;
 using System.Threading.Tasks;
 using Xunit;
 
@@ -18,7 +14,7 @@ namespace APIWeb.Test
         }
 
         [Fact]
-        public async Task LoginTests_LoginCorrect_ReturnsTrue()
+        public async Task LoginTests_LoginBossCorrect_ReturnsTrue()
         {
             // Arrange
             var request = new
@@ -49,8 +45,8 @@ namespace APIWeb.Test
                 Url = "/Login",
                 Body = new
                 {
-                    Username = "alguienDeVentas",
-                    Password = "123"
+                    Username = "algunJefe",
+                    Password = "13"
                 }
             };
 
